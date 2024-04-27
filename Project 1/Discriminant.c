@@ -34,6 +34,7 @@ int main()
   else if(Disc==0){
     printf("Roots will be rational and equal.\n");
   }
+  getch();
 
   return 0;
 }
