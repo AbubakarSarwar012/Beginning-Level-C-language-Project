@@ -1,4 +1,4 @@
-<b># C-Language-Calculator</b>
+<b># C-Language-Calculator </b>
 
 * How to use?
 
