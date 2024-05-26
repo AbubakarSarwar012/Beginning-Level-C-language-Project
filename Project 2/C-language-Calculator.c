@@ -7,9 +7,6 @@ int main(){
 
   int num1,num2;
   char operator;
-  char restart;
-
-  
 
    printf("\nEnter operator (+,-,*,/,%%,^): \n");
    scanf("%c",&operator);
