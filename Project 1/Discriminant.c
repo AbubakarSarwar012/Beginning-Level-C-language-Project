@@ -35,6 +35,6 @@ int main()
     printf("Roots will be rational and equal.\n");
   }
   getch();
-
+                              //Developed By Abubakar Sarwar.
   return 0;
 }
