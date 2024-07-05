@@ -1,1 +1,2 @@
-A Guessing number Game developed By Abubakar Sarwar.
+<h1 align="center">A Number Guessing Game</h1>
+
