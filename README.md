@@ -12,4 +12,7 @@
   <a href="https://github.com/AbubakarSarwar012/Beginning-Level-C-language-Project/tree/main/Project%204">
   <li>Rock , Paper & Scissor Game</li>
     </a>
+  <a href="https://github.com/AbubakarSarwar012/Beginning-Level-C-language-Project/tree/main/Project%205">
+    <li>Sum Calculator</li>
+  </a>
 </ul>
